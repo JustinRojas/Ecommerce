@@ -1,0 +1,11 @@
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.deps.json
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.pdb
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
