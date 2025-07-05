@@ -96,3 +96,4 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.API\bin\Debug\n
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.API\obj\Debug\net8.0\Ecommerce.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.API\obj\Debug\net8.0\Ecommerce.API.sourcelink.json

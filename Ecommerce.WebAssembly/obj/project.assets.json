@@ -2,6 +2,38 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Blazored.LocalStorage/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Blazored.LocalStorage.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Blazored.LocalStorage.dll": {}
+        }
+      },
+      "Blazored.Toast/4.2.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "8.0.2",
+          "Microsoft.AspNetCore.Components.Web": "8.0.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Blazored.Toast.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Blazored.Toast.dll": {}
+        },
+        "build": {
+          "buildTransitive/Blazored.Toast.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Blazored.Toast.props": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.8": {
         "type": "package",
         "dependencies": {
@@ -504,6 +536,38 @@
       }
     },
     "net8.0/browser-wasm": {
+      "Blazored.LocalStorage/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Blazored.LocalStorage.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Blazored.LocalStorage.dll": {}
+        }
+      },
+      "Blazored.Toast/4.2.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "8.0.2",
+          "Microsoft.AspNetCore.Components.Web": "8.0.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Blazored.Toast.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Blazored.Toast.dll": {}
+        },
+        "build": {
+          "buildTransitive/Blazored.Toast.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Blazored.Toast.props": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.8": {
         "type": "package",
         "dependencies": {
@@ -1001,6 +1065,43 @@
     }
   },
   "libraries": {
+    "Blazored.LocalStorage/4.5.0": {
+      "sha512": "6nZuJwA7zNIKx83IsObiHXZb09ponJOpCClU3en+hI8ZFvrOKXeOw+H7TegQZQrvdR1n9fkrVkEBQZg8vx6ZTw==",
+      "type": "package",
+      "path": "blazored.localstorage/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "blazored.localstorage.4.5.0.nupkg.sha512",
+        "blazored.localstorage.nuspec",
+        "icon.png",
+        "lib/net6.0/Blazored.LocalStorage.dll",
+        "lib/net7.0/Blazored.LocalStorage.dll",
+        "lib/net8.0/Blazored.LocalStorage.dll"
+      ]
+    },
+    "Blazored.Toast/4.2.1": {
+      "sha512": "RuSGS8m21IejQ8EKXjZYEcCbgZEhyP7VptvyHjdRDKkJ3wxCqANKWvDxSKuExSbk1NLD1tySe8OpPYsdCeqvcw==",
+      "type": "package",
+      "path": "blazored.toast/4.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "blazored.toast.4.2.1.nupkg.sha512",
+        "blazored.toast.nuspec",
+        "build/Blazored.Toast.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/Blazored.Toast.props",
+        "buildTransitive/Blazored.Toast.props",
+        "icon.png",
+        "lib/net6.0/Blazored.Toast.dll",
+        "lib/net7.0/Blazored.Toast.dll",
+        "lib/net8.0/Blazored.Toast.dll",
+        "staticwebassets/Blazored.Toast.bundle.scp.css"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/8.0.8": {
       "sha512": "e+ehkJTx0bqUb9zzM9ohV830LhoK3fy5lfVGPWAozbq6I2rJpyq7L0OUgEGNEQLMTzawkDjpNlJ4WU1ck/TDjw==",
       "type": "package",
@@ -2077,6 +2178,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Blazored.LocalStorage >= 4.5.0",
+      "Blazored.Toast >= 4.2.1",
       "Ecommerce.DTO >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.8",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.8",
@@ -2132,6 +2235,14 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Blazored.LocalStorage": {
+            "target": "Package",
+            "version": "[4.5.0, )"
+          },
+          "Blazored.Toast": {
+            "target": "Package",
+            "version": "[4.2.1, )"
+          },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
             "version": "[8.0.8, )"

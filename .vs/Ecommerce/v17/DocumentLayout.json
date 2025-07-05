@@ -3,20 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\implementacion\\carritoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\implementacion\\carritoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\contrato\\icarritoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\contrato\\icarritoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\contrato\\idashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\contrato\\idashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\implementacion\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\implementacion\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\implementacion\\dashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\implementacion\\dashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\ecommerce.webassembly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\ecommerce.webassembly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\implementacion\\ventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\implementacion\\ventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\implementacion\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\implementacion\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\contrato\\iventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\contrato\\iventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\contrato\\icategoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\contrato\\icategoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\implementacion\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\implementacion\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\servicios\\contrato\\iproductoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\servicios\\contrato\\iproductoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.servicio\\implementacion\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\implementacion\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\contrato\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.servicio\\implementacion\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\implementacion\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.servicio\\implementacion\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\implementacion\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -102,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,46 +178,240 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T23:43:18.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VentaController.cs",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\VentaController.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\VentaController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T23:37:46.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAAAGkAAAAIAAAA",
+              "Title": "IDashboardServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\IDashboardServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Contrato\\IDashboardServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\IDashboardServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Contrato\\IDashboardServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T23:25:39.936Z",
+              "WhenOpened": "2025-07-04T01:53:38.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICarritoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\ICarritoServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Contrato\\ICarritoServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\ICarritoServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Contrato\\ICarritoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:47:06.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CarritoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\CarritoServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\CarritoServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\CarritoServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\CarritoServicio.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:51:38.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\_Imports.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\_Imports.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\_Imports.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T02:36:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Program.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Program.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T00:38:16.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\ProductoServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\ProductoServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\ProductoServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\ProductoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:30:07.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\index.html",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-04T02:39:23.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T02:44:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ecommerce.WebAssembly.csproj",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-04T00:41:39.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\DashboardServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\DashboardServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\DashboardServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\DashboardServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:57:52.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\VentaServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\VentaServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\VentaServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\VentaServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:50:06.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\UsuarioServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\UsuarioServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\UsuarioServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\UsuarioServicio.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T00:59:54.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVentaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\IVentaServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Contrato\\IVentaServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\IVentaServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Contrato\\IVentaServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:48:46.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategoriaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\ICategoriaServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Contrato\\ICategoriaServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\ICategoriaServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Contrato\\ICategoriaServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:21:09.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:43:18.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\CategoriaServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\CategoriaServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\CategoriaServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\CategoriaServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:22:49.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:25:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\IProductoServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Contrato\\IProductoServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Contrato\\IProductoServicio.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Contrato\\IProductoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:27:38.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:37:46.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Program.cs",
               "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
@@ -161,25 +419,35 @@
               "RelativeToolTip": "Ecommerce.API\\Program.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:44:55.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:44:55.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
+              "Title": "CategoriaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\CategoriaServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\CategoriaServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\CategoriaServicio.cs",
+              "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\CategoriaServicio.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:35:50.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\CategoriaController.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAEIAAAAGAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAIBJwEIAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T23:16:46.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T23:16:46.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "IGenericoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
               "RelativeDocumentMoniker": "Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
@@ -187,12 +455,11 @@
               "RelativeToolTip": "Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T02:34:13.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T02:34:13.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\UsuarioController.cs",
@@ -200,12 +467,11 @@
               "RelativeToolTip": "Ecommerce.API\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T02:04:01.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T02:04:01.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "DBEcommerceContext.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Repositorio\\DBContext\\DBEcommerceContext.cs",
               "RelativeDocumentMoniker": "Ecommerce.Repositorio\\DBContext\\DBEcommerceContext.cs",
@@ -217,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\appsettings.json",
               "RelativeDocumentMoniker": "Ecommerce.API\\appsettings.json",
@@ -229,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
               "Title": "IUsuarioServicio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Contrato\\IUsuarioServicio.cs",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Contrato\\IUsuarioServicio.cs",
@@ -241,19 +507,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "UsuarioServicio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
               "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
-              "ViewState": "AQIAAIYAAAAAAAAAAAA5wKgAAAAIAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAgwKgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T21:59:35.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "ResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.DTO\\ResponseDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce.DTO\\ResponseDTO.cs",
@@ -261,12 +527,11 @@
               "RelativeToolTip": "Ecommerce.DTO\\ResponseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:22:47.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:22:47.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "VentaServicio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\VentaServicio.cs",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\VentaServicio.cs",
@@ -278,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "IDashBoardService.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Contrato\\IDashBoardService.cs",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Contrato\\IDashBoardService.cs",
@@ -286,48 +551,35 @@
               "RelativeToolTip": "Ecommerce.Servicio\\Contrato\\IDashBoardService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T02:27:47.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T02:27:47.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 30,
               "Title": "DashBoardServicio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\DashBoardServicio.cs",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\DashBoardServicio.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\DashBoardServicio.cs",
               "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\DashBoardServicio.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEQAAAAbAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAIBJwEQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T02:29:50.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoriaServicio.cs",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\CategoriaServicio.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\CategoriaServicio.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\CategoriaServicio.cs",
-              "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\CategoriaServicio.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABEAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T01:35:50.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 32,
               "Title": "ProductoServicio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\ProductoServicio.cs",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\ProductoServicio.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\ProductoServicio.cs",
               "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\ProductoServicio.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAALAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAIBYwBwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T01:50:30.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "IProductoServicio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Contrato\\IProductoServicio.cs",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Contrato\\IProductoServicio.cs",
@@ -335,12 +587,11 @@
               "RelativeToolTip": "Ecommerce.Servicio\\Contrato\\IProductoServicio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T01:46:20.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T01:46:20.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "ICategoriaServicio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Contrato\\ICategoriaServicio.cs",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Contrato\\ICategoriaServicio.cs",
@@ -352,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 36,
               "Title": "Ecommerce.Servicio.csproj",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
               "RelativeDocumentMoniker": "Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
@@ -364,31 +615,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Utilidades\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "Ecommerce.Utilidades\\AutoMapperProfile.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Utilidades\\AutoMapperProfile.cs",
               "RelativeToolTip": "Ecommerce.Utilidades\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACIAAAApAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBJwCIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T18:30:16.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 37,
               "Title": "ProductoDTO.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.DTO\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce.DTO\\ProductoDTO.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.DTO\\ProductoDTO.cs",
               "RelativeToolTip": "Ecommerce.DTO\\ProductoDTO.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAEBTwB0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T18:36:33.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 38,
               "Title": "VentaDTO.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.DTO\\VentaDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce.DTO\\VentaDTO.cs",
@@ -396,8 +647,7 @@
               "RelativeToolTip": "Ecommerce.DTO\\VentaDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:34:50.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:34:50.717Z"
             }
           ]
         }
