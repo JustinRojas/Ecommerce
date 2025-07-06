@@ -5,6 +5,7 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\n
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfoInputs.cache
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfo.cs
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.sourcelink.json
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb

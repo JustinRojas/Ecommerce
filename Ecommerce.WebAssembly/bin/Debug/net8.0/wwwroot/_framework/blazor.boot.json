@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Ecommerce.WebAssembly",
   "resources": {
-    "hash": "sha256-DcX3qJdEsL+n80R3SynnJf4PmcmfwYlgarvo35NfmjQ=",
+    "hash": "sha256-w/hAXA8jPDHbbV+RO3NQrxSSs1HCn3Ve/v6ez47Uyu4=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.l3zbeatvrt.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -17,6 +17,9 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
+      "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
+      "Blazored.Toast.wasm": "sha256-rct5tMc2ZxFhr35Adawli4MHBEMAF/uJC2QW8RvdQ0M=",
+      "CurrieTechnologies.Razor.SweetAlert2.wasm": "sha256-LItcB9+wOS16QRC+VgMQdR3+AdQ+5KgYnkQln5rlM0k=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-H1yH7iBNYt/rilvQT6qsv2frcFFOBUKBnRrGQ1AIHnI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-kPAmhH4D4UN/DyWkGyB1Sxs7tQyVDV150swtUfTSJJ8=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-ZB9Iu49s5SYUpy+xnFe+KIg2LeHGglqjWkohvxQ8m30=",
@@ -208,12 +211,12 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "Ecommerce.DTO.wasm": "sha256-U1vc7340/KY2H+oC+Ajc3Aif+j/QSkoHvHpIgDaZUXU=",
-      "Ecommerce.WebAssembly.wasm": "sha256-uUfMcdcZ9i9QvUd8kzncqAz8TgtMYWpkF803nZW+Izw="
+      "Ecommerce.DTO.wasm": "sha256-73y71MmMvBHU7TcU5rArWHBqWdWrPcV8kOsxatkj5wg=",
+      "Ecommerce.WebAssembly.wasm": "sha256-LMupuW3vZnlL+RfR1lQeLq84aGgFkTq08wdVqvfHHFI="
     },
     "pdb": {
-      "Ecommerce.DTO.pdb": "sha256-3sJb0iNtC+lN4ofwiVzOFa909LAcDqiOpuvPsDt+0tI=",
-      "Ecommerce.WebAssembly.pdb": "sha256-FkMVjUnKV9K42cVOc8qvr5Kgh3Ze9gbgrJy3C74OnYw="
+      "Ecommerce.DTO.pdb": "sha256-+wg3uK0ewb5C78r2XtHSYkO/ZEZhJOs1i1SoSdIya6g=",
+      "Ecommerce.WebAssembly.pdb": "sha256-11yU3++UmsS0MvfyJ/Iy684twfoo0NMrr4BRzFqAJSE="
     }
   },
   "cacheBootResources": true,

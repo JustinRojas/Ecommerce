@@ -1,11 +1,16 @@
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\CurrieTechnologies.Razor.SweetAlert2.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.8.l3zbeatvrt.js
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.8.v53dng7oih.js
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.DTO.pdb
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.DTO.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.WebAssembly.pdb
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.WebAssembly.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat
@@ -224,6 +229,7 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Data.DataSetExtensions.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.DispatchProxy.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm.gz
@@ -250,6 +256,7 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\CurrieTechnologies.Razor.SweetAlert2.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Dynamic.Runtime.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Web.HttpUtility.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm.gz
@@ -262,6 +269,7 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebHeaderCollection.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.ServiceProcess.wasm.gz
@@ -270,6 +278,7 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.DTO.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm.gz
@@ -331,6 +340,7 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.DTO.pdb.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm.gz
@@ -409,6 +419,9 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Ecommerce.WebAssembly.staticwebassets.runtime.json
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Ecommerce.WebAssembly.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Ecommerce.WebAssembly.pdb
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazored.LocalStorage.dll
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazored.Toast.dll
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\CurrieTechnologies.Razor.SweetAlert2.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -609,12 +622,18 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\icudt_CJK.dat
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\icudt_EFIGS.dat
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\icudt_no_CJK.dat
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Ecommerce.DTO.pdb
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.csproj.AssemblyReference.cache
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.AssemblyInfoInputs.cache
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.AssemblyInfo.cs
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.csproj.CoreCompileInputs.cache
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.sourcelink.json
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazored.LocalStorage.wasm
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazored.Toast.wasm
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\CurrieTechnologies.Razor.SweetAlert2.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -806,6 +825,7 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\mscorlib.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\netstandard.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\System.Private.CoreLib.wasm
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Ecommerce.DTO.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Ecommerce.WebAssembly.wasm
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\blazor.build.boot-extension.json
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\blazor.boot.json
@@ -818,6 +838,9 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\scopedcss\bundle\Ecommerce.WebAssembly.styles.css
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\f52rg90hhw.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\bolf9fenxw.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\4uwgqaj66o.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\8sft1x6xy8.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\rfarojkj9b.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\2k08z3dgww.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\og4h7jvokn.gz
@@ -1018,6 +1041,8 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\h8gmkhk20l.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\j7jmd6o9my.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\sf7jb92e1c.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\cze949mu2p.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\m5az6oyywc.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\l9vqzzflb0.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\pxuiwzsj4z.gz
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\fveyapdap7.gz
@@ -1026,12 +1051,3 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\refint\Ecommerce.WebAssembly.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.pdb
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\ref\Ecommerce.WebAssembly.dll
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.DTO.pdb
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.DTO.wasm
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.DTO.wasm.gz
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Ecommerce.DTO.pdb.gz
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Ecommerce.DTO.dll
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Ecommerce.DTO.pdb
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Ecommerce.DTO.wasm
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\cze949mu2p.gz
-C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\m5az6oyywc.gz

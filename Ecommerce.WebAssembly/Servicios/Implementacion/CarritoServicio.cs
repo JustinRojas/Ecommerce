@@ -14,15 +14,15 @@ namespace Ecommerce.WebAssembly.Servicios.Implementacion
         private IToastService _toastService;
 
         public CarritoServicio(ILocalStorageService localStorageService,
-         ISyncLocalStorageService syncLocalStorageService,
-         IToastService toastService)
+                               ISyncLocalStorageService syncLocalStorageService,
+                               IToastService toastService)
         {
             _localStorageService = localStorageService; 
             _syncLocalStorageService = syncLocalStorageService;
             _toastService = toastService;
         }
 
-        public event Action MostrarItems;
+        public event Action? MostrarItems;
 
       
 
@@ -37,7 +37,7 @@ namespace Ecommerce.WebAssembly.Servicios.Implementacion
                     carrito = new List<CarritoDTO>();
 
                 //valida en caso de que el producto ya este en la lista, para si es así borrar y actualizar
-                var encontrado = carrito.FirstOrDefault( c => c.Producto.IdProducto == modelo.Producto.IdProducto);
+                var encontrado = carrito.FirstOrDefault( c => c.Producto?.IdProducto == modelo.Producto.IdProducto);
                 
                 //Verificamos y borramos si fuese que ya existe 
                 if(encontrado != null)

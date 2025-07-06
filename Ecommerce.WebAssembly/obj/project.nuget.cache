@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Q64C/IfueIex/BqFm5NShGOFxHHiKN3QQeuj86yNr5CtW+AQ5poY8Czi1mHgcv/HgmNkC7WL16b81/uqcy9Qbw==",
+  "dgSpecHash": "DewF19DM+WPPILkanJvIPygBKaTWuJY2JBaVm7Y3PX5s554d1+uvkJiUTr2VMLB0UClZcnM8FVXp/WMy8YaPoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\justi\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
-    "C:\\Users\\justi\\.nuget\\packages\\blazored.toast\\4.2.1\\blazored.toast.4.2.1.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\3.0.0\\currietechnologies.razor.sweetalert2.3.0.0.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.8\\microsoft.aspnetcore.authorization.8.0.8.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.8\\microsoft.aspnetcore.components.8.0.8.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.8\\microsoft.aspnetcore.components.analyzers.8.0.8.nupkg.sha512",
