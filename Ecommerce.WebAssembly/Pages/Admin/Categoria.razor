@@ -1,9 +1,132 @@
 ﻿@page "/categoria"
-@page "/categoria/{Id=int}"
+@page "/categoria/{Id:int}"
 
-<h3>Categoria</h3>
+@inject ICategoriaServicio categoriaServicio
+@inject IToastService toastService
+@inject NavigationManager _navServicio
+
+
+
+
+<div class="row justify-content-center  mt-3">
+    <p class="col-sm-12 col-md-8 col-xl-10 h4 mt-2">@Titulo</p>
+</div>
+<div class="row justify-content-center  mt-3">
+    <div class="col-sm-12 col-md-8 col-xl-10">
+
+        <EditForm Model="modelo" OnValidSubmit="GuardarCambios">
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+            <div class="input-group">
+                <span class="input-group-text bg-light">Nombre</span>
+                <input type="text" class="form-control" @bind-value="modelo.Nombre">
+            </div>
+            <ValidationMessage For="@(()=>modelo.Nombre)" />
+
+            <div class="mt-3">
+                <button type="submit" class="btn btn-primary" style="width:130px">@boton</button>
+                <a href="/categorias" class="btn btn-secondary" style="width:130px">Volver</a>
+            </div>
+        </EditForm>
+
+
+    </div>
+
+</div>
 
 
 @code {
+    [Parameter]
+    public int Id { get; set; }
+    private string Titulo = "Nueva categoría";
+    private string boton = "Crear";
+    private CategoriaDTO modelo = new CategoriaDTO();
+
+    // Método asincrónico que se ejecuta automáticamente cuando se actualizan los parámetros del componente (por ejemplo, cuando se recibe un nuevo "Id")
+    // Este método es parte del ciclo de vida de componentes en Blazor
+    protected override async Task OnParametersSetAsync()
+    {
+        // Si el Id es distinto de 0, significa que estamos editando una categoría existente
+        if (Id != 0)
+        {
+            // Cambia el título y el texto del botón para reflejar que es una operación de edición
+            Titulo = "Editar";
+            boton = "Actualizar";
+
+            // Llama al servicio para obtener los datos de la categoría con ese Id
+            var response = await categoriaServicio.Obtener(Id);
+
+            // Verifica si la operación fue exitosa
+            if (response.EsCorrecto)
+            {
+                // Asigna los datos obtenidos al modelo, que probablemente se está usando en el formulario de edición
+                modelo = (CategoriaDTO) response.Resultado!;
+            }
+            else
+            {
+                // Si hubo un error, muestra un mensaje de advertencia usando el servicio de notificaciones (toast)
+                toastService.ShowWarning(response.Mensaje);
+            }
+        }
+    }
+
+
+    public async Task GuardarCambios()
+    {
+        // Variable para saber si la operación fue exitosa
+        bool respuesta = true;
+
+        // Variable para almacenar el mensaje que se mostrará al usuario
+        string mensaje = string.Empty;
+
+        // Si el Id es diferente de 0, significa que se está editando una categoría existente
+        if (Id != 0)
+        {
+            // Llamar al servicio para editar la categoría con los datos del modelo
+            var response = await categoriaServicio.Editar(modelo);
+
+            // Verificar si la edición fue exitosa
+            if (response.EsCorrecto)
+            {
+                mensaje = "La categoría fue modificada";
+            }
+            else
+            {
+                // Marcar como fallida la operación y establecer el mensaje de error
+                respuesta = false;
+                mensaje = "La categoría no se pudo editar";
+            }
+        }
+        else
+        {
+            // Si el Id es 0, se trata de una nueva categoría, así que se crea
+            var response = await categoriaServicio.Crear(modelo);
+
+            // Verificar si la creación fue exitosa
+            if (response.EsCorrecto)
+            {
+                mensaje = "La categoría fue creada";
+            }
+            else
+            {
+                // Marcar como fallida la operación y establecer el mensaje de error
+                respuesta = false; // ✅ Corrección agregada aquí
+                mensaje = "No se pudo crear la categoría";
+            }
+        }
+
+        // Mostrar notificación al usuario según el resultado de la operación
+        if (respuesta)
+        {
+            // Mostrar mensaje de éxito
+            toastService.ShowSuccess(mensaje);
+            _navServicio.NavigateTo("/categorias");
+        }
+        else
+        {
+            // Mostrar advertencia si la operación falló
+            toastService.ShowWarning(mensaje);
+        }
+    }
+
 
 }

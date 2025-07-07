@@ -3,7 +3,7 @@ namespace Ecommerce.WebAssembly.Servicios.Contrato
 {
     public interface ICategoriaServicio
     {
-        Task<ResponseDTO<List<CategoriaDTO>>> Lista(string rol, string buscar);
+        Task<ResponseDTO<List<CategoriaDTO>>> Lista( string buscar);
         Task<ResponseDTO<CategoriaDTO>> Obtener(int id);
       
         Task<ResponseDTO<CategoriaDTO>> Crear(CategoriaDTO modelo);

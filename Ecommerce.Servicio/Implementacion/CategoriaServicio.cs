@@ -16,11 +16,14 @@ namespace Ecommerce.Servicio.Implementacion
     public class CategoriaServicio : ICategoriaServicio
     {
         private readonly IGenericoRepositorio<Categoria> _modeloRepositorio;
+        private readonly IGenericoRepositorio<Producto> _productoRepositorio;
+
         private readonly IMapper _mapper;
 
-        public CategoriaServicio(IGenericoRepositorio<Categoria> modeloRepositorio, IMapper mapper)
+        public CategoriaServicio(IGenericoRepositorio<Categoria> modeloRepositorio, IGenericoRepositorio<Producto> productoRepositorio, IMapper mapper)
         {
             _modeloRepositorio = modeloRepositorio;
+            _productoRepositorio = productoRepositorio;
             _mapper = mapper;
         }
 
@@ -81,6 +84,13 @@ namespace Ecommerce.Servicio.Implementacion
         {
             try
             {
+
+                // Verificar si hay productos que usan esta categoría
+                var productosConCategoria = await _productoRepositorio.Get(p => p.IdCategoria == id).AnyAsync();
+                if (productosConCategoria)
+                {
+                    throw new InvalidOperationException("No se puede eliminar la categoría porque tiene productos asociados.");
+                }
                 var consulta = _modeloRepositorio.Get(p => p.IdCategoria == id);
                 var fromDbModelo = await consulta.FirstOrDefaultAsync();
 

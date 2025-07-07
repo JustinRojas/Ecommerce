@@ -27,11 +27,11 @@ namespace Ecommerce.Repositorio.Implementacion
                 {
                     foreach(DetalleVenta dv in modelo.DetallesVenta)
                     {
-                        Producto producto_encontrado = _dbContext.Productos.Where(p => p.IdProducto == dv.IdProducto).First();
+                        Producto producto_encontrado = _dbContext.Producto.Where(p => p.IdProducto == dv.IdProducto).First();
                         //Dismunuimos el sctock
                         producto_encontrado.Cantidad = producto_encontrado.Cantidad-dv.Cantidad;
 
-                        _dbContext.Productos.Update(producto_encontrado);
+                        _dbContext.Producto.Update(producto_encontrado);
                     }
                     await _dbContext.SaveChangesAsync();
 

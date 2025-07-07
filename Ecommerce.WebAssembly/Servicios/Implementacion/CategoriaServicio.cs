@@ -36,11 +36,13 @@ namespace Ecommerce.WebAssembly.Servicios.Impleentacion
 
         }
 
-        public async Task<ResponseDTO<List<CategoriaDTO>>> Lista(string rol, string buscar)
+        public async Task<ResponseDTO<List<CategoriaDTO>>> Lista( string buscar)
         {
-            return await _httpClient.GetFromJsonAsync<ResponseDTO<List<CategoriaDTO>>>($"Categoria/Lista/{rol}/{buscar}");
+            return await _httpClient.GetFromJsonAsync<ResponseDTO<List<CategoriaDTO>>>($"Categoria/Lista/{buscar}");
 
         }
+
+      
 
         public async Task<ResponseDTO<CategoriaDTO>> Obtener(int id)
         {

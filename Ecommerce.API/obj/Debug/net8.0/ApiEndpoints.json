@@ -34,7 +34,7 @@
   {
     "ContainingType": "Ecommerce.API.Controllers.CategoriaController",
     "Method": "Eliminar",
-    "RelativePath": "api/Categoria/Eliminar",
+    "RelativePath": "api/Categoria/Eliminar/{Id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -42,7 +42,7 @@
       {
         "Name": "Id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
