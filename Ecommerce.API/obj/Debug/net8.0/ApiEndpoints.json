@@ -145,7 +145,7 @@
   {
     "ContainingType": "Ecommerce.API.Controllers.ProductoController",
     "Method": "Eliminar",
-    "RelativePath": "api/Producto/Eliminar",
+    "RelativePath": "api/Producto/Eliminar/{Id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -153,7 +153,7 @@
       {
         "Name": "Id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

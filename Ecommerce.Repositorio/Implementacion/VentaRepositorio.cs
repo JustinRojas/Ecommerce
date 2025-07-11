@@ -36,7 +36,7 @@ namespace Ecommerce.Repositorio.Implementacion
                     await _dbContext.SaveChangesAsync();
 
 
-                    await _dbContext.Ventas.AddAsync(modelo);
+                    await _dbContext.Venta.AddAsync(modelo);
                     await _dbContext.SaveChangesAsync();
                     ventaGenerada = modelo;
                     transaction.Commit();

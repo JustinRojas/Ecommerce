@@ -22,7 +22,7 @@ namespace Ecommerce.Servicio.Implementacion
             IGenericoRepositorio<Producto> productoRepositorio,
              IVentaRepositorio ventaRepositorio)
         {
-            _usuarioRepositorio = _usuarioRepositorio;
+            _usuarioRepositorio = usuarioRepositorio;
             _productoRepositorio = productoRepositorio;
             _ventaRepositorio = ventaRepositorio;
        
@@ -42,9 +42,19 @@ namespace Ecommerce.Servicio.Implementacion
         }
          private int Clientes()
         {
-            var consulta = _usuarioRepositorio.Get( u => u.Rol.ToLower() == "cliente" );
-            int total = consulta.Count();
-            return total;
+                       
+                try
+                {
+                    var consulta = _usuarioRepositorio.Get(u => u.Rol != null && u.Rol.ToLower() == "cliente");
+                    return consulta?.Count() ?? 0;
+                }
+                catch (Exception ex)
+                {
+                    // Loggear el error si es necesario
+                    Console.WriteLine($"Error al contar clientes: {ex.Message}");
+                    return 0;
+                }
+            
         }
           private int Productos()
         {

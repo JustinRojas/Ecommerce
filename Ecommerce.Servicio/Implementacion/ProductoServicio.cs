@@ -159,10 +159,12 @@ namespace Ecommerce.Servicio.Implementacion
         {
             try
             {
-                var consulta = _modeloRepositorio.Get(p => p.Nombre.ToLower().Contains(buscar.ToLower()) &&
-               p.Categoria.Nombre.ToLower().Contains(buscar.ToLower()));
-                List<ProductoDTO> lista = _mapper.Map<List<ProductoDTO>>(await consulta.ToListAsync());
-                return lista;
+
+                var consulta = _modeloRepositorio.Get(p =>
+          p.Nombre.ToLower().Contains(buscar.ToLower()) &&
+          (string.IsNullOrEmpty(categoria) || p.Categoria.Nombre.ToLower() == categoria.ToLower()));
+
+                return _mapper.Map<List<ProductoDTO>>(await consulta.ToListAsync());
 
 
             }

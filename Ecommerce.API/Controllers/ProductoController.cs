@@ -39,7 +39,7 @@ namespace Ecommerce.API.Controllers
             return Ok(response);
         }
 
-        [HttpGet("Catalogo/{categoria:alpha}/{buscar:alpha?}")]
+        [HttpGet("Catalogo/{categoria}/{buscar?}")]
         public async Task<IActionResult> Catalogo(string categoria, string buscar = "NA")
         {
             var response = new ResponseDTO<List<ProductoDTO>>();
@@ -123,7 +123,7 @@ namespace Ecommerce.API.Controllers
             return Ok(response);
         }
 
-        [HttpDelete("Eliminar")]
+        [HttpDelete("Eliminar/{Id}")]
         public async Task<IActionResult> Eliminar(int Id)
         {
             var response = new ResponseDTO<bool>();

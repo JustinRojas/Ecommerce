@@ -1,8 +1,218 @@
 ﻿@page "/producto"
-@page "/producto/{Id=int}"
+@page "/producto/{Id:int}"
+@using System.Text.Json
 
-<h3>Producto</h3>
+@inject IProductoServicio productoServicio
+@inject ICategoriaServicio categoriaServicio
+@inject IToastService toastService
+
+@inject SweetAlertService SweetAlert
+
+@* Para navegar entre las páginas *@
+@inject NavigationManager _navServicio
+
+
+
+<div class="row justify-content-center  mt-3">
+    <p class="col-sm-12 col-md-8 col-xl-10 h4 mt-2">@Titulo</p>
+</div>
+<div class="row justify-content-center  mt-3">
+    <div class="col-sm-12 col-md-8 col-xl-10">
+
+        <EditForm Model="modelo" OnValidSubmit="@GuardarCambios">
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+
+            <div class="input-group">
+                <span class="input-group-text bg-light" id="basic-addon3">Nombre</span>
+                <input type="text" class="form-control" @bind-value="modelo.Nombre">
+            </div>
+            <ValidationMessage For="@(()=>modelo.Nombre)" />
+
+            <div class="input-group  mt-3">
+                <span class="input-group-text bg-light">Descripcion</span>
+                <textarea class="form-control" @bind="modelo.Descripcion"></textarea>
+
+            </div>
+            <ValidationMessage For="@(()=>modelo.Descripcion)" />
+
+            <div class="input-group mt-3">
+                <label class="input-group-text bg-light" for="inputGroupSelect01">Categoria</label>
+                <select class="form-select" value="@modelo.IdCategoria" @onchange="CambiarCategoria">
+                    @foreach (var item in listaCategoria)
+                    {
+                        <option value="@item.IdCategoria">@item.Nombre</option>
+                    }
+                </select>
+            </div>
+
+            <div class="input-group mt-3">
+                <span class="input-group-text bg-light" id="basic-addon3">Precio</span>
+                <input type="number" class="form-control" @bind-value="modelo.Precio">
+            </div>
+            <ValidationMessage For="@(()=>modelo.Precio)" />
+
+            <div class="input-group mt-3">
+                <span class="input-group-text bg-light" id="basic-addon3">Precio Oferta</span>
+                <input type="number" class="form-control" @bind-value="modelo.PrecioOferta">
+            </div>
+            <ValidationMessage For="@(()=>modelo.PrecioOferta)" />
+
+            <div class="input-group mt-3">
+                <span class="input-group-text bg-light" id="basic-addon3">Cantidad</span>
+                <input type="number" class="form-control" @bind-value="modelo.Cantidad">
+            </div>
+            <ValidationMessage For="@(()=>modelo.Cantidad)" />
+
+            <div class="input-group mt-3">
+                <label class="input-group-text bg-light">Imagen</label>
+                <InputFile type="file" class="form-control" accept="image/png, image/gif, image/jpeg" OnChange="OnFileChange"></InputFile>
+            </div>
+
+            <div class="mt-3">
+                <button type="submit" class="btn btn-primary" style="width:130px">@boton</button>
+                <a href="/productos" class="btn btn-secondary" style="width:130px">Volver</a>
+            </div>
+        </EditForm>
+
+
+
+
+    </div>
+
+</div>
 
 @code {
+
+    [Parameter]
+    public int Id { get; set; }
+    private string Titulo = "Nuevo producto";
+    private string boton = "Crear";
+    private ProductoDTO modelo = new ProductoDTO();
+    private List<CategoriaDTO>? listaCategoria = new List<CategoriaDTO>();
+
+
+    //Método que se ejecuta cuando inicia el componente
+    protected override async Task OnInitializedAsync()
+    {
+        var response = await categoriaServicio.Lista("");
+        if (response.EsCorrecto)
+        {
+            listaCategoria = (List<CategoriaDTO>)response.Resultado!;
+            if(listaCategoria.Any() && Id == 0)
+            {
+                modelo.IdCategoria = listaCategoria.First().IdCategoria;
+            }
+        } 
+    }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (Id != 0)
+        {
+            Titulo = "Editar producto";
+            boton = "Actualizar";
+
+            var response = await productoServicio.Obtener(Id);
+            if (response.EsCorrecto)
+            {
+                modelo = (ProductoDTO)response.Resultado!;
+
+            }
+            else
+            {
+                toastService.ShowWarning(response.Mensaje);
+            }
+        }
+    }
+
+    //Se ejectuta cada vez que se cambie la imagen
+    async Task OnFileChange(InputFileChangeEventArgs e)
+    {
+        FileInfo fileInfo = new FileInfo(e.File.Name);
+
+        var extension = fileInfo.Extension.ToLower();
+        if (extension == ".jpg" || extension == ".jpeg" || extension == ".png"){
+
+            var format = $"image/{fileInfo.Extension.Replace(".", "")}";
+            var resizeImg = await e.File.RequestImageFileAsync(format, 450, 300);
+
+            var buffer = new byte[resizeImg.Size];
+            await resizeImg.OpenReadStream().ReadAsync(buffer);
+            var imageData = $"data:{format};base64,{Convert.ToBase64String(buffer)}";
+            modelo.Imagen = imageData;
+
+
+        }
+
+    }
+
+    //Cambia la categoría del desplegable
+    void CambiarCategoria(ChangeEventArgs e)
+    {
+        if (int.TryParse(e.Value?.ToString(), out int idCategoria))
+        {
+            modelo.IdCategoria = idCategoria;
+        }
+    }
+
+    private async Task GuardarCambios()
+    {
+        // Variable para saber si la operación fue exitosa
+        bool respuesta = true;
+
+        // Variable para almacenar el mensaje que se mostrará al usuario
+        string mensaje = string.Empty;
+
+        // Si el Id es diferente de 0, significa que se está editando una categoría existente
+        if (Id != 0)
+        {
+            // Llamar al servicio para editar la categoría con los datos del modelo
+            var response = await productoServicio.Editar(modelo);
+
+            // Verificar si la edición fue exitosa
+            if (response.EsCorrecto)
+            {
+                mensaje = "El producto fue modificada";
+            }
+            else
+            {
+                // Marcar como fallida la operación y establecer el mensaje de error
+                respuesta = false;
+                mensaje = "El producto no se pudo editar";
+            }
+        }
+        else
+        {
+            // Si el Id es 0, se trata de una nueva categoría, así que se crea
+            var response = await productoServicio.Crear(modelo);
+
+            // Verificar si la creación fue exitosa
+            if (response.EsCorrecto)
+            {
+                mensaje = "El producto fue creado";
+            }
+            else
+            {
+                // Marcar como fallida la operación y establecer el mensaje de error
+                respuesta = false; // ✅ Corrección agregada aquí
+                mensaje = "No se pudo crear el producto";
+            }
+        }
+
+        // Mostrar notificación al usuario según el resultado de la operación
+        if (respuesta)
+        {
+            // Mostrar mensaje de éxito
+            toastService.ShowSuccess(mensaje);
+            _navServicio.NavigateTo("/productos");
+        }
+        else
+        {
+            // Mostrar advertencia si la operación falló
+            toastService.ShowWarning(mensaje);
+        }
+    }
+
+
 
 }

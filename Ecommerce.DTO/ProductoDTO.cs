@@ -25,8 +25,7 @@ namespace Ecommerce.DTO
         public int Cantidad { get; set; }
         [Required(ErrorMessage = "Ingrese imagen")]
         public string? Imagen { get; set; }
-
-        public DateTime? FechaCreacion { get; set; }
-        public CategoriaDTO Categoria { get; set; }
+        public CategoriaDTO? Categoria { get; set; }
+        public DateTime? FechaCreacion { get; set; } = DateTime.Now;
     }
 }
