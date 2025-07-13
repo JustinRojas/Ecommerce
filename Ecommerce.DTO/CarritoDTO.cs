@@ -10,7 +10,7 @@ namespace Ecommerce.DTO
     {
         public ProductoDTO? Producto { get; set; }
         public int? Cantidad { get; set; }
-        public decimal? Precio { get;}
-        public int? Total { get; set; }
+        public decimal? Precio { get; set; }
+        public decimal? Total { get; set; }
     }
 }

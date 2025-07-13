@@ -10,7 +10,7 @@ namespace Ecommerce.DTO
     {
         public int IdVenta { get; set; }
         public int IdUsuario { get; set; }
-        public decimal Total { get; set; }
+        public decimal? Total { get; set; }
  
         public ICollection<DetalleVentaDTO> DetallesVenta { get; set; } = new List<DetalleVentaDTO>();
     }
