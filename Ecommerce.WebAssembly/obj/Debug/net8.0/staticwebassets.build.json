@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fiPIjTxGsVHRwM0REjTCRYsXjQDUTuw0TuaQcMlSKSI=",
+  "Hash": "LarBOEVZbsQJrG3vX/kA6VzBxydSktXkyMfrHSDulH4=",
   "Source": "Ecommerce.WebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -416,6 +416,25 @@
       "OriginalItemSpec": "C:\\Users\\justi\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\3.0.0\\staticwebassets\\wordpressAdminTheme.min.css"
     },
     {
+      "Identity": "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\9.0.7\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\9.0.7\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\9.0.7\\staticwebassets\\AuthenticationService.js"
+    },
+    {
       "Identity": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "Ecommerce.WebAssembly",
       "SourceType": "Computed",
@@ -775,6 +794,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Authorization.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Components.Authorization.wasm"
     },
     {
       "Identity": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm",
@@ -7805,6 +7843,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.VisualBasic.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\uxj03hcy88.gz",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm"
     },
     {
       "Identity": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\uy5uoz1dau.gz",

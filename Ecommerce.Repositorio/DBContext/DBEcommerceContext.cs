@@ -13,7 +13,7 @@ public class DbEcommerceContext : DbContext
     public DbSet<Producto> Producto { get; set; }
     public DbSet<Usuario> Usuario { get; set; }
     public DbSet<Venta> Venta { get; set; }
-    public DbSet<DetalleVenta> DetallesVenta { get; set; }
+    public DbSet<DetalleVenta> DetalleVenta { get; set; }
 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

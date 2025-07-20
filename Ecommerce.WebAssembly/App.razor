@@ -1,12 +1,40 @@
-﻿<Router AppAssembly="@typeof(App).Assembly">
-    <Found Context="routeData">
-        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
-        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
-    </Found>
-    <NotFound>
-        <PageTitle>Not found</PageTitle>
-        <LayoutView Layout="@typeof(MainLayout)">
-            <p role="alert">Sorry, there's nothing at this address.</p>
-        </LayoutView>
-    </NotFound>
-</Router>
+﻿
+@using Microsoft.AspNetCore.Components.Authorization;
+@inject NavigationManager navManager;
+
+@* Se agrega el código dentro de CascadingAuthenticationState para configurar la navegación *@
+<CascadingAuthenticationState>
+    <Router AppAssembly="@typeof(App).Assembly">
+        <Found Context="routeData">
+
+           @*  si esta autorizado entra normal a la ruta por defecto *@
+            <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)">
+
+              @*   En caso de que no esté autorizado *@
+                <NotAuthorized>
+                    @{
+                        // Cuando el usuario no está autenticado lo enviamos a login
+                        if(context.User.Identity?.IsAuthenticated != true)
+                        {
+                            navManager.NavigateTo("/login");
+                        }
+                        else
+                        {
+                            <p class="alert alert-danger">  No está autorizado para ver esta página </p>
+                        }
+                    }
+                </NotAuthorized>
+
+            </AuthorizeRouteView>
+
+        </Found>
+        <NotFound>
+            <PageTitle>Not found</PageTitle>
+            <LayoutView Layout="@typeof(MainLayout)">
+                <p role="alert">Sorry, there's nothing at this address.</p>
+            </LayoutView>
+        </NotFound>
+    </Router>
+
+</CascadingAuthenticationState>
+

@@ -1051,3 +1051,8 @@ C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\refint\Ecommerce.WebAssembly.dll
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.pdb
 C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\ref\Ecommerce.WebAssembly.dll
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.wasm
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.wasm.gz
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Authorization.wasm
+C:\Users\justi\OneDrive\Escritorio\Programas\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\uxj03hcy88.gz

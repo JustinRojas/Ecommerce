@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DewF19DM+WPPILkanJvIPygBKaTWuJY2JBaVm7Y3PX5s554d1+uvkJiUTr2VMLB0UClZcnM8FVXp/WMy8YaPoQ==",
+  "dgSpecHash": "6n1im9JxbQUbTCQger+/hF3WpPJPgXL9YQFU3C37DyEoli637JlfBywFSgfoyxh5OrGoTv6/CTzBFTjBExtF1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
   "expectedPackageFiles": [
@@ -10,9 +10,11 @@
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.8\\microsoft.aspnetcore.authorization.8.0.8.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.8\\microsoft.aspnetcore.components.8.0.8.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.8\\microsoft.aspnetcore.components.analyzers.8.0.8.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\8.0.1\\microsoft.aspnetcore.components.authorization.8.0.1.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.8\\microsoft.aspnetcore.components.forms.8.0.8.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.8\\microsoft.aspnetcore.components.web.8.0.8.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.8\\microsoft.aspnetcore.components.webassembly.8.0.8.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\9.0.7\\microsoft.aspnetcore.components.webassembly.authentication.9.0.7.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\8.0.8\\microsoft.aspnetcore.components.webassembly.devserver.8.0.8.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.8\\microsoft.aspnetcore.metadata.8.0.8.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

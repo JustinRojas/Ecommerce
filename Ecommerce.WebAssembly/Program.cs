@@ -10,6 +10,10 @@ using Ecommerce.WebAssembly.Servicios.Impleentacion;
 using Ecommerce.WebAssembly.Servicios.Implementacion;
 
 using CurrieTechnologies.Razor.SweetAlert2;
+
+using Microsoft.AspNetCore.Components.Authorization;
+using Ecommerce.WebAssembly.Extensiones;
+
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
@@ -29,5 +33,7 @@ builder.Services.AddScoped<ICarritoServicio, CarritoServicio>();
 
 builder.Services.AddSweetAlert2();
 
+builder.Services.AddAuthorizationCore();
+builder.Services.AddScoped<AuthenticationStateProvider, AutenticacionExtension>();
 
 await builder.Build().RunAsync();

@@ -6,6 +6,8 @@
 @inject NavigationManager navServicio
 
 
+@using Microsoft.AspNetCore.Components.Authorization
+@using System.Security.Claims
 
 
 <div class="row mt-4">
@@ -130,13 +132,13 @@
                 </EditForm>
 
                @* COMENTAR TODO ESTO*@
-               @*  <AuthorizeView>
+                <AuthorizeView>
                     <NotAuthorized>
                         <div class="alert alert-danger mt-2" role="alert">
                             Debe iniciar sesion para poder realizar la compra
                         </div>
                     </NotAuthorized>
-                </AuthorizeView> *@
+                </AuthorizeView>
 
 
             </div>
@@ -151,12 +153,21 @@
     private decimal? TotalPagar = 0;
     private TarjetaDTO tarjeta = new TarjetaDTO();
 
+    //Para recibir por parametro la autenticación del usuario se hace de este modo
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationState{ get; set; }
 
     //Trae los produectos que hay en el carrito antes de que se cargue la página, para que
     //puedan verse cuando la page ya se cargó
     protected override async Task OnInitializedAsync()
     {
         lista = await carritoServicio.DevolverCarrito();
+
+        var authState = await authenticationState;
+        if (authState.User.Identity.IsAuthenticated)
+        {
+            disabled = false;
+        }
     }
 
 
@@ -216,9 +227,13 @@
                 });
         }
 
+
+        var authState = await authenticationState;
+        string idUsuario = authState.User.Claims.Where(c => c.Type == ClaimTypes.NameIdentifier).Select(c => c.Value).SingleOrDefault();
+        
         VentaDTO modeloVenta = new VentaDTO()
             {
-                IdUsuario = 1,
+                IdUsuario = Convert.ToInt32(idUsuario),
                 Total = lista.Sum(i => i.Total),
                 DetallesVenta = listaDetalle
 

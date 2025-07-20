@@ -6,6 +6,9 @@
 @inject Blazored.Toast.Services.IToastService toastService
 @inject SweetAlertService SweetAlert
 
+@* Esto si la pagina es para un rol especifico se hace de este modo *@
+@attribute [Authorize (Roles = "Administrador")]
+
 <h3>Usuarios</h3>
 <div class="row justify-content-center  mt-3">
     <div class="col-sm-6 col-md-4 col-xl-3 mb-4">

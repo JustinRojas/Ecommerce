@@ -3,8 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D3B7FB-D5F8-46BA-ACFB-95AED5056B41}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5838273-C4FE-4CA8-8FED-6F3D4B1FEF00}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.repositorio\\dbcontext\\dbecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5838273-C4FE-4CA8-8FED-6F3D4B1FEF00}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|solutionrelative:ecommerce.repositorio\\dbcontext\\dbecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\tienda\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\tienda\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\shared\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\shared\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\autorizacion\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\autorizacion\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\autorizacion\\registro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\autorizacion\\registro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.servicio\\implementacion\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31A6E3-C429-44F5-A14E-9BA9CF451BD7}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\implementacion\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\admin\\producto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\admin\\producto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\admin\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\admin\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\admin\\productos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\admin\\productos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\admin\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\admin\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\admin\\categoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\admin\\categoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\admin\\usuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\admin\\usuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\pages\\admin\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\admin\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\extensiones\\autenticacionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\extensiones\\autenticacionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.webassembly\\ecommerce.webassembly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84194E48-0857-4F45-B4EF-CD48B2EF2FEF}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\ecommerce.webassembly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67E1CBFD-8916-4E3E-977F-FDEE5BADFEC2}|Ecommerce.DTO\\Ecommerce.DTO.csproj|c:\\users\\justi\\onedrive\\escritorio\\programas\\ecommerce\\ecommerce.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +115,255 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DBEcommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Repositorio\\DBContext\\DBEcommerceContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Repositorio\\DBContext\\DBEcommerceContext.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Repositorio\\DBContext\\DBEcommerceContext.cs",
+              "RelativeToolTip": "Ecommerce.Repositorio\\DBContext\\DBEcommerceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:05:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:03:31.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginLayout.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Shared\\LoginLayout.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Shared\\LoginLayout.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Shared\\LoginLayout.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Shared\\LoginLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T01:33:52.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Autorizacion\\Login.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Autorizacion\\Login.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Autorizacion\\Login.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Autorizacion\\Login.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T01:28:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Admin\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Dashboard.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Admin\\Dashboard.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T02:59:45.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T01:39:13.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
+              "ViewState": "AQIAANoAAAAAAAAAAAAAAOgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-13T01:18:25.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registro.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Autorizacion\\Registro.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Autorizacion\\Registro.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Autorizacion\\Registro.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Autorizacion\\Registro.razor",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAADoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T02:09:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
+              "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAG0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T01:44:00.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Producto.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Admin\\Producto.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Producto.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Admin\\Producto.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T02:59:34.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Productos.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Productos.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Admin\\Productos.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Productos.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Admin\\Productos.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T02:59:27.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categorias.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Categorias.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Admin\\Categorias.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Categorias.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Admin\\Categorias.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T02:59:22.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Categoria.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Categoria.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Admin\\Categoria.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Categoria.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Admin\\Categoria.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T02:59:12.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\_Imports.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\_Imports.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\_Imports.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T02:50:55.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Usuario.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Admin\\Usuario.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Usuario.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Admin\\Usuario.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T02:50:26.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuarios.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T02:47:01.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\App.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\App.razor",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\App.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T03:49:26.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Program.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Program.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:45:19.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutenticacionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Extensiones\\AutenticacionExtension.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Extensiones\\AutenticacionExtension.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Extensiones\\AutenticacionExtension.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Extensiones\\AutenticacionExtension.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:25:16.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ecommerce.WebAssembly.csproj",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T01:02:36.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "VentaDTO.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.DTO\\VentaDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce.DTO\\VentaDTO.cs",
@@ -46,47 +371,31 @@
               "RelativeToolTip": "Ecommerce.DTO\\VentaDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T02:43:38.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T02:43:38.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "Detalle.razor",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Tienda\\Detalle.razor",
               "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Tienda\\Detalle.razor",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Tienda\\Detalle.razor",
               "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Tienda\\Detalle.razor",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAACBjwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-13T01:35:33.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T01:35:33.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "CarritoServicio.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\CarritoServicio.cs",
               "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\CarritoServicio.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Servicios\\Implementacion\\CarritoServicio.cs",
               "RelativeToolTip": "Ecommerce.WebAssembly\\Servicios\\Implementacion\\CarritoServicio.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAACBjwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T01:25:23.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cart.razor",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
-              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Escritorio\\Programas\\Ecommerce\\Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
-              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
-              "ViewState": "AQIAAMMAAAAAAAAAAAAAAIoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-13T01:18:25.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T01:25:23.669Z"
             }
           ]
         }
